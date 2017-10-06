@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "202214385316",
+    "firebase_url": "https://testpush-e8a96.firebaseio.com",
+    "project_id": "testpush-e8a96",
+    "storage_bucket": "testpush-e8a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202214385316:android:0c4ca22e98c209ee",
+        "android_client_info": {
+          "package_name": "fang.ionic.push.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202214385316-hqe1h5vfc6knetb7e33gi5t63qdg5lc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFatQiBbLiaTfru_bO6YqDmp-TTNuch0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
